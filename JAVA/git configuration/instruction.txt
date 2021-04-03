@@ -1,0 +1,5 @@
+git config --global user.name "rajkamal8"
+
+git config --global user.email "rajkamal.gupta.it23@heritageit.edu.in"
+
+git push remote add origin 'https repo' 
