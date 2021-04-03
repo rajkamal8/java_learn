@@ -2,4 +2,12 @@ git config --global user.name "rajkamal8"
 
 git config --global user.email "rajkamal.gupta.it23@heritageit.edu.in"
 
-git push remote add origin 'https repo' 
+git add .
+ 
+git commit -m "comments "
+
+git remote add origin https://github.com/rajkamal8/java_learn.git
+
+git push -u origin 
+
+git push --set-upstream origin master
