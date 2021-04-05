@@ -1,0 +1,11 @@
+some acronyms 
+
+jre  : java runtime environment
+it enables java code execution
+
+jdk : java development kit
+it provide tools required to create java apps
+
+ide : integrated development environment
+it helps to edit run and debug our programs
+
