@@ -67,8 +67,12 @@ double num = 3.55555555555d
 string s2 = String.format("the number is %.1f years",num);
 //result in 3.5
 
+conversions
 ![string format table](images/strings.JPG)
 
 # format specifiers
 
-%[*argument index*][*flags*][*width*][*precision*]conversion
+**%[*argument index*][*flags*][*width*][*precision*]conversion**
+
+
+# flag chart
