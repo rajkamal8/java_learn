@@ -40,5 +40,18 @@ string from non string type          valueOf
 
 
 
-# string from non string type 
+# string builder class
 
+StringBuilder sb = new StringBuilder(40);
+
+sb.append(" string literal");
+sb.append(<string variables>);
+sb.append(<integer value/variables>);
+
+String message = sb.toString();
+ 
+ //stringbuilder methods
+sb.indexOf(" on");
+sb.insert(pos," at");
+String time  = "9:00am";
+sb.insert(pos+4, time);
