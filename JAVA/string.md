@@ -76,3 +76,5 @@ conversions
 
 
 # flag chart
+
+:::image type="content" source="images/flags.png" alt-text="flag chart":::
