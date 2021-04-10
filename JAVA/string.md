@@ -78,10 +78,22 @@ conversions
 
 # flag chart
 
-<img src="images/flags.png" alt = "flag chart"/>
+<img src="images/flag.JPG" alt = "flag chart"/>
 
 examples
 
 <img src = "images/flag_chart_example.png" alt = "flag chart exapmle">
 
 <img src = "images/example_flag.JPG" alt = "examples of flag"/>
+
+<img src  = " images/flag_comma_exapmle.JPG" alt = "example flag comma ">
+
+<img src = "images/example_flag_1.JPG" alt = " example of + and )">
+
+
+<img src = "images/example_flag_2.JPG" alt = " example of + and )">
+
+# argument index
+
+
+<img src = " images/argument_index.JPG" alt=" ">
