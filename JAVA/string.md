@@ -68,6 +68,7 @@ string s2 = String.format("the number is %.1f years",num);
 //result in 3.5
 
 conversions
+
 ![string format table](images/strings.JPG)
 
 # format specifiers
@@ -77,4 +78,10 @@ conversions
 
 # flag chart
 
-:::image type="content" source="images/flags.png" alt-text="flag chart":::
+<img src="images/flags.png" alt = "flag chart"/>
+
+examples
+
+<img src = "images/flag_chart_example.png" alt = "flag chart exapmle">
+
+<img src = "images/example_flag.JPG" alt = "examples of flag"/>
